@@ -18,6 +18,4 @@
 
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-A-Ferretto&theme=onedark&hide_border=true)
-
  
