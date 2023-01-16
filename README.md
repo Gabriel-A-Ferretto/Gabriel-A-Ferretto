@@ -18,10 +18,6 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Ferretto&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
-
-<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-A-Ferretto&theme=onedark&hide_border=true)
 
  
