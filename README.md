@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Ferretto&&theme=onedark&hide_border=true&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Ferretto&langs_count=8)
 
 <br/>
 
