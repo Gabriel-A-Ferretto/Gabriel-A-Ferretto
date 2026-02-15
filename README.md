@@ -1,49 +1,61 @@
 <h1 align="center">
-  Olá! 👋 Meu nome é Gabriel
+  Gabriel A. Ferretto 👨‍💻
 </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gabriel-a-ferretto&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-a-ferretto" /> </p>
-<h3 align="center">
-  Um entusiasta de dados e Machine Learning transformando café em código e insights.
-</h3>
-
-<br>
-
-## 👨‍💻 Sobre Mim
-
-- 🔭 Atualmente estou explorando o vasto universo da **Ciência de Dados** e **Inteligência Artificial**.
-- 🌱 Estou focado em aprimorar minhas habilidades em **Python**.
-- 👯 Procuro colaborar em projetos open-source relacionados a análise de dados.
 
 
+![Python](https://img.shields.io/badge/Python-Estudando-blue)
+![Status](https://img.shields.io/badge/Status-Em%20progresso-success)
+![Foco](https://img.shields.io/badge/Foco-Ciência%20de%20Dados-informational)
 
-<br>
+Estudante dedicado a **Python** e **matemática fundamental para Ciência de Dados**. Este repositório registra minha evolução técnica por meio de exercícios, anotações e projetos práticos, com ênfase em construir uma base sólida e consistente.
 
-## 🛠️ Minhas Ferramentas e Tecnologias
+---
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
- 
- 
-  
- 
- 
-</p>
+## 🎯 Objetivo
 
-<br>
+Desenvolver domínio em programação e matemática aplicada para ciência de dados, com foco em:
 
+* Estruturas de dados e algoritmos em Python
+* Álgebra linear, cálculo e estatística
+* Análise e manipulação de dados
+* Resolução de problemas com abordagem científica
 
+---
 
-<br>
+## 🗂 Estrutura do repositório
 
-## 🌐 Onde me encontrar
+```
+/python
+  ├─ fundamentos
+  ├─ exercícios
+  └─ projetos
 
-<p align="left">
-  <a href="https://linkedin.com/in/ds-aguiar-gabriel" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/SEU-USUARIO-DO-KAGGLE" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Meu Kaggle"/>
-  </a>
-</p>
+/matematica
+  ├─ álgebra
+  ├─ cálculo
+  └─ estatística
+```
+
+Organização progressiva, refletindo aprendizado contínuo e prática deliberada.
+
+---
+
+## 📚 Filosofia de estudo
+
+Aprendizado orientado por fundamentos, prática constante e aplicação em problemas reais. O objetivo é priorizar compreensão profunda antes de avançar para ferramentas complexas.
+
+---
+
+## 🛠 Tecnologias
+
+![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?\&logo=Jupyter)
+![Git](https://img.shields.io/badge/-Git-000?\&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=GitHub)
+
+---
+
+## 📫 Contato
+
+GitHub: https://github.com/Gabriel-A-Ferretto
