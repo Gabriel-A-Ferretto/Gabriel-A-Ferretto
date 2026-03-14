@@ -66,6 +66,18 @@ d-?-?-?-?-  cloud        [em rota de colisão]
 </div>
 
 ```bash
+bash
+┌──(gabriel㉿etec)-[~]
+└─$ cat lang_stats.json
+```
+ 
+<div align="center">
+  <a href="https://github.com/Gabriel-A-Ferretto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Ferretto&layout=compact&theme=gruvbox&border_color=504945&title_color=fabd2f&text_color=ebdbb2&bg_color=282828&langs_count=5&hide_border=false" alt="Top Languages" />
+  </a>
+</div>
+
+```bash
 ┌──(gabriel㉿etec)-[~]
 └─$ cat filosofia.txt
 ```
