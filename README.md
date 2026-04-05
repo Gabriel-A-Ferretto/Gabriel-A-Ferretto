@@ -12,29 +12,17 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  > whoami                                                        ║
-║                                                                  ║
-║    gabriel ferretto                                              ║
-║    cybersecurity student — focused on web pentesting             ║
-║                                                                  ║
-║  > cat mindset.txt                                               ║
-║    "You don't need to be the smartest in the room.               ║
-║     You need to be the most curious."                            ║
-║                                                                  ║
-║  > status: [ exploring, studying, breaking things ]              ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                    ║
+║  gabriel — Blue Team enthusiast | SOC Analyst in training   ║
+║  > current_focus: threat detection & log analysis           ║
+║  > status: learning never stops...                          ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-### 👾 About me
 
-
-
-> I'm interested in the offensive side of security: understanding vulnerabilities, how they emerge, how they're exploited, and what could have prevented them.
-
----
 
 ### 🧠 What I'm learning
 
@@ -57,20 +45,7 @@ class Ferretto:
 
 ---
 
-### 🛠 Stack & Tools
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff88)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00ff88)
-![Shell Script](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnu-bash&logoColor=00ff88)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=00ff88)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=00ff88)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d0d0d?style=for-the-badge&logo=portswigger&logoColor=ff6600)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=1679a7)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00ff88)
-
-</div>
 
 ---
 
@@ -78,12 +53,9 @@ class Ferretto:
 
 ```bash
 $ cat /etc/targets.txt
-
-[+] Python for pentest  — recon scripts, fuzzing and attack automation
-[+] Networking          — TCP/IP, HTTP, DNS, traffic analysis with Wireshark
-[+] OWASP Top 10        — studying each vulnerability in depth
-[+] SQLi / XSS / IDOR   — understanding the "why" before the "how to exploit"
-[+] Write-ups           — learning from those who got where I want to go
+[+] Python for defense   — log parsers, alert scripts and response automation
+[+] Networking           — TCP/IP, HTTP, DNS, traffic analysis with Wireshark
+[+] Write-ups            — learning from real incidents and how analysts responded
 ```
 
 ---
@@ -108,15 +80,6 @@ $ cat /etc/targets.txt
 
 ---
 
-### 💬 Real talk
-
-I'm not an expert. I'm still at the beginning — learning the tools, understanding vulnerabilities, making mistakes and getting better along the way.
-
-But I believe **consistency > talent**, and that curiosity is the best engine for any technical area.
-
-If you're on the same path, feel free to reach out. 👇
-
----
 
 <div align="center">
 
