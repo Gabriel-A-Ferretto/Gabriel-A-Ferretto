@@ -30,14 +30,13 @@
 class Ferretto:
     name       = "Gabriel A. Ferretto"
     education  = "Nano Cybersecurity — FIAP"
-    focus      = "Web Pentesting"
+    focus      = "SOC Analyst"
     skills     = ["Python", "Linux", "Shell Script", "HTML"]
     learning   = [
-        "Python for pentesting — automation, recon, fuzzing",
+        "Python for defense",
         "Computer networking — TCP/IP, HTTP, DNS, proxies",
-        "OWASP Top 10 — SQLi, XSS, IDOR, SSRF...",
-        "Target reconnaissance and enumeration",
-        "How attackers think",
+        "Target reconnaissance and enumeration"
+        
     ]
     goal       = "still figuring it out — but always toward offensive sec"
     motto      = "be the most curious in the room."
