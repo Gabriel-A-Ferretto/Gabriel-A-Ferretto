@@ -30,9 +30,7 @@
 
 ### 👾 About me
 
-I'm a **Cybersecurity** student at **FIAP (Nano program)**, focused on **web pentesting** — learning how systems fail, how attackers think, and how to build offensive security skills the right way: through solid fundamentals.
 
-Currently diving deep into **Python for pentesting** and **computer networking** — because you can't hack what you don't understand.
 
 > I'm interested in the offensive side of security: understanding vulnerabilities, how they emerge, how they're exploited, and what could have prevented them.
 
