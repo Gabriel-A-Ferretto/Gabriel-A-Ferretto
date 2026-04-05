@@ -38,7 +38,7 @@ class Ferretto:
         "Target reconnaissance and enumeration"
         
     ]
-    goal       = "still figuring it out — but always toward offensive sec"
+    goal       = "still figuring it out — but always toward blue team"
     motto      = "be the most curious in the room."
 ```
 
