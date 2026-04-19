@@ -14,9 +14,9 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  > whoami                                                    ║
-║  gabriel — Blue Team enthusiast | SOC Analyst in training   ║
-║  > current_focus: threat detection & log analysis           ║
-║  > status: learning never stops...                          ║
+║  gabriel — IT Support | DevOps Aspirant | Blue Team          ║
+║  > current_focus: automation, cloud & data analysis          ║
+║  > status: deploying new skills...                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -29,16 +29,18 @@
 ```python
 class Ferretto:
     name       = "Gabriel A. Ferretto"
-    education  = "Nano Cybersecurity — FIAP"
-    focus      = "SOC Analyst"
-    skills     = ["Python", "Linux", "Shell Script", "HTML"]
+    education  = "FIAP Nano - DevOps"
+    focus      = "Help Desk | Support | DevOps"
+    skills     = ["Python 3", "Linux", "Shell Script", "Cloud", "Data Analysis"]
+    
     learning   = [
-        "Python for defense",
-        "Computer networking — TCP/IP, HTTP, DNS, proxies",
-        "Target reconnaissance and enumeration"
-        
+        "Infrastructure Automation",
+        "Cloud Computing Foundations",
+        "Network Traffic Analysis (Wireshark)",
+        "Defensive Scripting & Log Parsing"
     ]
-    goal       = "still figuring it out — but always toward blue team"
+    
+    goal       = "Building a solid foundation in Infrastructure & Blue Team"
     motto      = "be the most curious in the room."
 ```
 
@@ -52,9 +54,11 @@ class Ferretto:
 
 ```bash
 $ cat /etc/targets.txt
-[+] Python for defense   — log parsers, alert scripts and response automation
-[+] Networking           — TCP/IP, HTTP, DNS, traffic analysis with Wireshark
-[+] Write-ups            — learning from real incidents and how analysts responded
+[+] Automation      — Python scripts for system administration and task optimization
+[+] Defense         — Log parsers, alert scripts, and incident response automation
+[+] Networking      — Deep dive into TCP/IP, HTTP, DNS, and traffic analysis
+[+] Infrastructure  — Learning Cloud environments and DevOps culture
+[+] Write-ups       — Documenting real incidents and analysis procedures
 ```
 
 ---
