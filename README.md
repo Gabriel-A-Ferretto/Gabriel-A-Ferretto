@@ -71,7 +71,14 @@ $ cat /etc/targets.txt
 
 </div>
 
----
+### 💻 Most Used Languages
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Ferretto&stats_format=bytes&theme=gruvbox)
+
+</div>
+
+
 
 ### 🐍 Contributions
 
