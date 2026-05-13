@@ -74,7 +74,7 @@ $ cat /etc/targets.txt
 ### 💻 Most Used Languages
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-A-Ferretto&stats_format=bytes&theme=gruvbox)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabriel-A-Ferretto&layout=compact&theme=gruvbox)
 
 </div>
 
